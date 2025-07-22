@@ -26,9 +26,6 @@ Streamlit was chosen to rapidly convert the trained ML model into a web applicat
 
 During development, **ngrok** was used to expose the local Streamlit app to the internet for testing and sharing with others.
 
-### Example usage:
-```bash
-ngrok http 8501
 
 ## 📁 Project Files
 
@@ -46,7 +43,7 @@ ngrok http 8501
 - Encodes categorical inputs automatically
 - Logging mechanism for traceability
 - Easy to deploy and run locally
-- 
+  
 ## 🎯Prediction Target
 Classifies whether an individual's salary is:
 - `<=50K`
@@ -57,6 +54,26 @@ Based on features such as:
 - Occupation
 - Workclass
 - Hours per week
-- etc.
+- etc.]
+  
+## 📌 Requirements
+- Python 3.7+
+- Streamlit
+- pandas
+- numpy
+- scikit-learn
+- joblib
+- LabelEncoder
+- ngrok for sharing
+
+ ##📓 Notes
+The dataset used is a cleaned version of the UCI Adult Income Dataset
+
+The app was developed for educational purposes and demonstration of ML deployment techniques
+
+Streamlit + ngrok combination makes it easy to test and share without full-scale cloud deployment 
+
+## 🙋‍♀️ Author
+Jahnavi Akveti
 
 
