@@ -1,7 +1,7 @@
 
 # 💻 Employee Salary Prediction App 💰
 
-A machine learning-powered web application that predicts whether a person's salary exceeds \$50K using demographic and work-related features. The app is built with **Streamlit** for its simplicity, speed, and ease of deployment, and uses **ngrok** for secure sharing during development.
+A machine learning powered web application that predicts whether a person's salary exceeds \$50K using demographic and work related features. The app is built with **Streamlit** for its simplicity, speed, and ease of deployment, and uses **ngrok** for secure sharing during development.
 
 ---
 
@@ -55,7 +55,6 @@ Based on features such as:
 - Occupation
 - Workclass
 - Hours per week
-- etc.]
   
 ## 📌 Requirements
 - Python 3.7+
@@ -72,7 +71,7 @@ The dataset used is a cleaned version of the UCI Adult Income Dataset
 
 The app was developed for educational purposes and demonstration of ML deployment techniques
 
-Streamlit + ngrok combination makes it easy to test and share without full-scale cloud deployment 
+Streamlit + ngrok combination makes it easy to test and share without full scale cloud deployment 
 
 ## 🙋‍♀️ Author
 Jahnavi Akveti
