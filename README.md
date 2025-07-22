@@ -66,7 +66,7 @@ Based on features such as:
 - LabelEncoder
 - ngrok for sharing
 
- ##📓 Notes
+## 📓 Notes
 The dataset used is a cleaned version of the UCI Adult Income Dataset
 
 The app was developed for educational purposes and demonstration of ML deployment techniques
