@@ -48,6 +48,7 @@ During development, **ngrok** was used to expose the local Streamlit app to the 
 Classifies whether an individual's salary is:
 - `<=50K`
 - `>50K`
+
 Based on features such as:
 - Age
 - Education
